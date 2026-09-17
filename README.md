@@ -62,16 +62,31 @@
 <div align="center">
   <h2>Statistics</h2>
   <h3>Sujaan's GitHub Stats</h3>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaanz&layout=compact&theme=vision-friendly-dark&hide_border=true&cache_bypass=1" alt="Most Used Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=sujaanz&show_icons=true&theme=vision-friendly-dark&hide_border=true&cache_bypass=1" alt="GitHub Stats" />
-  </p>
-  <br>
+  <!-- Framed Container for Stats Cards with Headings -->
+  <table align="center" style="border: 1px solid #30363d; border-radius: 8px; border-collapse: separate; padding: 10px; background-color: #0d1117;">
+    <tr>
+      <td align="left" style="border: none; padding-left: 10px;">
+        <strong>Most Used Languages</strong>
+      </td>
+      <td align="left" style="border: none; padding-left: 10px;">
+        <strong>GitHub Stats</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sujaanz&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" width="380px" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.shion.dev/api?username=sujaanz&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="380px" />
+      </td>
+    </tr>
+  </table>
+  
+  <h4>Contribution Streak</h4>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaanz&theme=vision-friendly-dark&hide_border=true" alt="Contribution Streak" />
   </p>
-  <br>
+  <h4>Contribution Graph</h4>
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujaanz&theme=react-dark&hide_border=true&cache_bypass=1" alt="Contribution Graph" width="100%" />
   </p>

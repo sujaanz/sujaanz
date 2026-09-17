@@ -64,8 +64,8 @@
   <h3>Sujaan's GitHub Stats</h3>
   <br>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaanz&layout=compact&theme=vision-friendly-dark&hide_border=true&cache_bypass=1" alt="Most Used Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=sujaanz&show_icons=true&theme=vision-friendly-dark&hide_border=true&cache_bypass=1" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sujaanz&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+    <img src="https://github-readme-stats.shion.dev/api?username=sujaanz&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false" />
   </p>
   <br>
   <p align="center">
